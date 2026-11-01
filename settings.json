@@ -103,7 +103,7 @@
     "virusSplitBoost": 880,
     "virusPushBoost": 120,
     "virusMonotonePops": false,
-    "ejectedSize": 40,
+    "ejectedSize": 100,
     "ejectingLoss": 40,
     "ejectDispersion": 0.3,
     "ejectedCellBoost": 880,
